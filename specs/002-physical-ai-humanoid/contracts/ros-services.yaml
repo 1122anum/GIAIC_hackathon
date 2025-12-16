@@ -1,0 +1,304 @@
+# ROS Service Contracts: Physical AI & Humanoid Robotics
+
+## Module 3: AI-Robot Brain (NVIDIA Isaac™)
+
+### Isaac Perception Services
+
+```yaml
+# Isaac VSLAM Service
+service: IsaacVSLAM
+package: isaac_perception_msgs
+srv:
+  request:
+    enable: bool
+    reset: bool
+  response:
+    success: bool
+    status: string
+    pose: geometry_msgs/PoseWithCovarianceStamped
+
+# Isaac Object Detection Service
+service: IsaacObjectDetection
+package: isaac_perception_msgs
+srv:
+  request:
+    enable: bool
+    detection_classes: string[]
+  response:
+    success: bool
+    objects: IsaacDetectedObject[]
+    execution_time: float64
+
+# Isaac Synthetic Data Generation Service
+service: IsaacSyntheticData
+package: isaac_perception_msgs
+srv:
+  request:
+    generate_depth: bool
+    generate_segmentation: bool
+    generate_normals: bool
+    num_samples: int32
+  response:
+    success: bool
+    data_path: string
+    num_generated: int32
+    generation_time: float64
+```
+
+### Isaac Navigation Services
+
+```yaml
+# Isaac Path Planning Service
+service: IsaacPathPlan
+package: isaac_navigation_msgs
+srv:
+  request:
+    start_pose: geometry_msgs/PoseStamped
+    goal_pose: geometry_msgs/PoseStamped
+    planner_type: string
+  response:
+    success: bool
+    path: nav_msgs/Path
+    execution_time: float64
+    path_length: float64
+
+# Isaac Footstep Planning for Humanoid (Bipedal)
+service: IsaacFootstepPlan
+package: isaac_navigation_msgs
+srv:
+  request:
+    start_pose: geometry_msgs/Pose
+    goal_pose: geometry_msgs/Pose
+    terrain_type: string
+    step_height: float64
+    step_length: float64
+  response:
+    success: bool
+    footsteps: geometry_msgs/Pose[]
+    support_regions: geometry_msgs/Polygon[]
+    planning_time: float64
+```
+
+## Module 4: Vision-Language-Action (VLA)
+
+### Voice Processing Services
+
+```yaml
+# Whisper Speech Recognition Service
+service: WhisperTranscribe
+package: vla_audio_msgs
+srv:
+  request:
+    audio_file_path: string
+    language: string
+    task: string  # "transcribe" or "translate"
+  response:
+    success: bool
+    text: string
+    confidence: float64
+    processing_time: float64
+
+# Voice Command Interpretation Service
+service: InterpretVoiceCommand
+package: vla_nlp_msgs
+srv:
+  request:
+    voice_text: string
+    robot_context: string
+    environment_context: string
+  response:
+    success: bool
+    interpreted_command: CommandPlan
+    confidence: float64
+    alternative_interpretations: CommandPlan[]
+```
+
+### Cognitive Planning Services
+
+```yaml
+# LLM Cognitive Planning Service
+service: LLMPlanAction
+package: vla_planning_msgs
+srv:
+  request:
+    natural_language_command: string
+    robot_capabilities: RobotCapabilities
+    environment_state: EnvironmentState
+    safety_constraints: SafetyConstraints[]
+  response:
+    success: bool
+    action_plan: ActionPlan
+    confidence: float64
+    reasoning_trace: string[]
+    planning_time: float64
+
+# Action Plan Validation Service
+service: ValidateActionPlan
+package: vla_planning_msgs
+srv:
+  request:
+    action_plan: ActionPlan
+    robot_state: RobotState
+    environment_state: EnvironmentState
+  response:
+    success: bool
+    is_valid: bool
+    safety_issues: string[]
+    feasibility_score: float64
+    validation_details: ValidationDetails
+```
+
+## Capstone Integration Services
+
+```yaml
+# Autonomous Humanoid Control Service
+service: AutonomousHumanoidControl
+package: humanoid_control_msgs
+srv:
+  request:
+    command_type: string  # "voice", "direct", "autonomous"
+    command_data: string  # The actual command
+    priority: int8  # 0-10 priority level
+    timeout: float64  # Command timeout in seconds
+  response:
+    success: bool
+    execution_status: string
+    robot_state: RobotState
+    execution_time: float64
+    error_message: string
+
+# Multi-Modal Perception Service
+service: MultiModalPerception
+package: vla_perception_msgs
+srv:
+  request:
+    enable_vision: bool
+    enable_audio: bool
+    enable_tactile: bool
+    detection_classes: string[]
+    audio_keywords: string[]
+  response:
+    success: bool
+    perception_results: PerceptionResult[]
+    confidence_scores: float64[]
+    processing_time: float64
+```
+
+## Message Definitions
+
+### Isaac-Specific Messages
+
+```yaml
+# IsaacDetectedObject
+string object_class
+float64 confidence
+geometry_msgs/Pose pose
+geometry_msgs/Vector3 dimensions
+sensor_msgs/RegionOfInterest bounding_box
+
+# IsaacPerceptionPipelineConfig
+string pipeline_name
+bool enable_gpu_acceleration
+float64 processing_rate
+bool enable_tracking
+bool enable_segmentation
+```
+
+### VLA-Specific Messages
+
+```yaml
+# CommandPlan
+string command_type  # "navigation", "manipulation", "interaction", etc.
+string[] action_sequence
+geometry_msgs/PoseStamped[] target_poses
+string[] object_names
+string[] interaction_types
+
+# RobotCapabilities
+bool can_navigate
+bool can_manipulate
+bool can_speak
+string[] available_actions
+string[] supported_objects
+
+# EnvironmentState
+geometry_msgs/PoseStamped[] known_objects
+geometry_msgs/PoseStamped robot_pose
+string[] room_layout
+string current_location
+
+# ActionPlan
+CommandStep[] steps
+string[] dependencies
+string[] constraints
+float64 estimated_duration
+string[] required_resources
+
+# CommandStep
+string action_type
+string action_name
+string[] parameters
+geometry_msgs/PoseStamped target_pose
+string[] preconditions
+string[] effects
+
+# SafetyConstraints
+string constraint_type  # "kinematic", "collision", "social", etc.
+string description
+float64 threshold_value
+bool is_hard_constraint
+
+# ValidationDetails
+bool[] step_validity
+string[] error_messages
+float64[] safety_scores
+bool overall_valid
+string validation_summary
+
+# PerceptionResult
+string modality  # "vision", "audio", "tactile"
+string detection_type
+geometry_msgs/PoseStamped pose
+string object_name
+float64 confidence
+sensor_msgs/Image[] supporting_data
+```
+
+## Action Definitions (for long-running operations)
+
+```yaml
+# Voice Command Action
+action: VoiceCommandAction
+package: vla_audio_msgs
+action:
+  goal:
+    voice_command: string
+    timeout: float64
+  result:
+    success: bool
+    execution_status: string
+    error_message: string
+  feedback:
+    processing_state: string
+    current_step: string
+    progress: float64
+
+# Navigation Action (Extended for Humanoid)
+action: HumanoidNavigateToPose
+package: humanoid_nav_msgs
+action:
+  goal:
+    pose: geometry_msgs/PoseStamped
+    footstep_constraints: FootstepConstraints
+    terrain_type: string
+  result:
+    success: bool
+    final_pose: geometry_msgs/PoseStamped
+    path_executed: nav_msgs/Path
+    error_code: int8
+  feedback:
+    current_pose: geometry_msgs/PoseStamped
+    distance_remaining: float64
+    step_progress: float64
+    phase: string  # "planning", "walking", "balancing", etc.
+```

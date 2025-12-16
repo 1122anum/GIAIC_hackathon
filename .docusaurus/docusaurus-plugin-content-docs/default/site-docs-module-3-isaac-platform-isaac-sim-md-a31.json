@@ -1,0 +1,24 @@
+{
+  "id": "module-3-isaac-platform/isaac-sim",
+  "title": "Isaac Sim: Photorealistic Simulation + Synthetic Data",
+  "description": "NVIDIA Isaac Sim is a robotics simulation application that provides high-fidelity physics simulation and photorealistic rendering. Built on NVIDIA Omniverse, it enables synthetic data generation for training perception and navigation systems.",
+  "source": "@site/docs/module-3-isaac-platform/isaac-sim.md",
+  "sourceDirName": "module-3-isaac-platform",
+  "slug": "/module-3-isaac-platform/isaac-sim",
+  "permalink": "/physical-ai-humanoid-course/docs/module-3-isaac-platform/isaac-sim",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-organization/physical-ai-humanoid-course/tree/main/packages/create-docusaurus/templates/shared/docs/module-3-isaac-platform/isaac-sim.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Isaac ROS: Hardware-Accelerated VSLAM + Navigation",
+    "permalink": "/physical-ai-humanoid-course/docs/module-3-isaac-platform/isaac-ros"
+  },
+  "next": {
+    "title": "Nav2: Bipedal Humanoid Path Planning",
+    "permalink": "/physical-ai-humanoid-course/docs/module-3-isaac-platform/nav2-humanoid"
+  }
+}

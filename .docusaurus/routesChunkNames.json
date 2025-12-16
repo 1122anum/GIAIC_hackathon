@@ -1,0 +1,181 @@
+{
+  "/physical-ai-humanoid-course/__docusaurus/debug-1c2": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-course-docusaurus-debugb-38-d44"
+    }
+  },
+  "/physical-ai-humanoid-course/__docusaurus/debug/config-f60": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-course-docusaurus-debugb-38-d44"
+    }
+  },
+  "/physical-ai-humanoid-course/__docusaurus/debug/content-fa0": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-course-docusaurus-debugb-38-d44"
+    },
+    "__props": "__props---physical-ai-humanoid-course-docusaurus-debug-content-625-837"
+  },
+  "/physical-ai-humanoid-course/__docusaurus/debug/globalData-0a2": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-course-docusaurus-debugb-38-d44"
+    }
+  },
+  "/physical-ai-humanoid-course/__docusaurus/debug/metadata-a76": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-course-docusaurus-debugb-38-d44"
+    }
+  },
+  "/physical-ai-humanoid-course/__docusaurus/debug/registry-ae5": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-course-docusaurus-debugb-38-d44"
+    }
+  },
+  "/physical-ai-humanoid-course/__docusaurus/debug/routes-2dd": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-course-docusaurus-debugb-38-d44"
+    }
+  },
+  "/physical-ai-humanoid-course/docs-a63": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-course-docsaba-555"
+    }
+  },
+  "/physical-ai-humanoid-course/docs-468": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---physical-ai-humanoid-course-docse-9-f-4e9"
+  },
+  "/physical-ai-humanoid-course/docs-2f4": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/physical-ai-humanoid-course/docs/ai-education-research/ai-applications-31a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-course-docs-ai-education-research-ai-applicationsef-6-dad"
+  },
+  "/physical-ai-humanoid-course/docs/ai-education-research/conclusion-e53": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-course-docs-ai-education-research-conclusionc-92-ca4"
+  },
+  "/physical-ai-humanoid-course/docs/ai-education-research/implementation-cc3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-course-docs-ai-education-research-implementationf-30-a95"
+  },
+  "/physical-ai-humanoid-course/docs/ai-education-research/implementation-plan-599": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-course-docs-ai-education-research-implementation-pland-87-956"
+  },
+  "/physical-ai-humanoid-course/docs/ai-education-research/intro-6f8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-course-docs-ai-education-research-introccd-c8c"
+  },
+  "/physical-ai-humanoid-course/docs/ai-education-research/literature-review-2a8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-course-docs-ai-education-research-literature-review-02-d-bca"
+  },
+  "/physical-ai-humanoid-course/docs/ai-education-research/references-040": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-course-docs-ai-education-research-references-3-d-7-d20"
+  },
+  "/physical-ai-humanoid-course/docs/ai-education-research/roi-analysis-60f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-course-docs-ai-education-research-roi-analysisa-5-c-cfa"
+  },
+  "/physical-ai-humanoid-course/docs/ai-education-research/student-outcomes-862": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-course-docs-ai-education-research-student-outcomes-799-683"
+  },
+  "/physical-ai-humanoid-course/docs/ai-education-research/teacher-workload-328": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-course-docs-ai-education-research-teacher-workloadefa-a1a"
+  },
+  "/physical-ai-humanoid-course/docs/category/ais-impact-on-k-12-classroom-efficiency-927": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---physical-ai-humanoid-course-docs-category-ais-impact-on-k-12-classroom-efficiencyd-2-a-1c7"
+  },
+  "/physical-ai-humanoid-course/docs/category/module-1-ros-2-fundamentals-479": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---physical-ai-humanoid-course-docs-category-module-1-ros-2-fundamentals-447-49f"
+  },
+  "/physical-ai-humanoid-course/docs/category/module-2-digital-twin-simulation-572": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---physical-ai-humanoid-course-docs-category-module-2-digital-twin-simulation-2-f-3-966"
+  },
+  "/physical-ai-humanoid-course/docs/category/module-3-isaac-platform-0dd": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---physical-ai-humanoid-course-docs-category-module-3-isaac-platform-645-87a"
+  },
+  "/physical-ai-humanoid-course/docs/category/module-4-vision-language-action-587": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---physical-ai-humanoid-course-docs-category-module-4-vision-language-actionc-4-b-a51"
+  },
+  "/physical-ai-humanoid-course/docs/intro-37c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-course-docs-intro-0-e-3-06b"
+  },
+  "/physical-ai-humanoid-course/docs/module-1-ros2/basic-nodes-611": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-course-docs-module-1-ros-2-basic-nodes-74-b-b6a"
+  },
+  "/physical-ai-humanoid-course/docs/module-1-ros2/introduction-f83": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-course-docs-module-1-ros-2-introductionfd-9-b3d"
+  },
+  "/physical-ai-humanoid-course/docs/module-2-digital-twin/introduction-475": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-course-docs-module-2-digital-twin-introduction-412-e30"
+  },
+  "/physical-ai-humanoid-course/docs/module-3-isaac-platform/-bda": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-course-docs-module-3-isaac-platform-99-d-d20"
+  },
+  "/physical-ai-humanoid-course/docs/module-3-isaac-platform/integration-e65": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-course-docs-module-3-isaac-platform-integration-037-9b1"
+  },
+  "/physical-ai-humanoid-course/docs/module-3-isaac-platform/isaac-ros-06e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-course-docs-module-3-isaac-platform-isaac-ros-748-087"
+  },
+  "/physical-ai-humanoid-course/docs/module-3-isaac-platform/isaac-sim-123": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-course-docs-module-3-isaac-platform-isaac-sima-31-674"
+  },
+  "/physical-ai-humanoid-course/docs/module-3-isaac-platform/nav2-humanoid-c3e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-course-docs-module-3-isaac-platform-nav-2-humanoid-444-119"
+  },
+  "/physical-ai-humanoid-course/docs/module-4-vla/-bc2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-course-docs-module-4-vla-4-a-9-08a"
+  },
+  "/physical-ai-humanoid-course/docs/module-4-vla/capstone-384": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-course-docs-module-4-vla-capstonefc-8-7aa"
+  },
+  "/physical-ai-humanoid-course/docs/module-4-vla/llm-planning-3cf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-course-docs-module-4-vla-llm-planningce-5-c81"
+  },
+  "/physical-ai-humanoid-course/docs/module-4-vla/nlp-ros-063": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-course-docs-module-4-vla-nlp-roscd-5-d14"
+  },
+  "/physical-ai-humanoid-course/docs/module-4-vla/whisper-582": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-course-docs-module-4-vla-whisper-0-dd-a7f"
+  },
+  "/physical-ai-humanoid-course/-223": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-course-a-74-294"
+    },
+    "config": "config---physical-ai-humanoid-course-5-e-9-3bc"
+  }
+}

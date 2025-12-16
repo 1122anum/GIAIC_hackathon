@@ -1,0 +1,24 @@
+{
+  "id": "module-4-vla/index",
+  "title": "Module 4: Vision-Language-Action (VLA)",
+  "description": "This module covers Vision-Language-Action systems that connect perception, language understanding, and robotic action execution. It includes OpenAI Whisper for voice commands, LLM-driven cognitive planning, and integration with ROS 2 actions.",
+  "source": "@site/docs/module-4-vla/index.md",
+  "sourceDirName": "module-4-vla",
+  "slug": "/module-4-vla/",
+  "permalink": "/physical-ai-humanoid-course/docs/module-4-vla/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-organization/physical-ai-humanoid-course/tree/main/packages/create-docusaurus/templates/shared/docs/module-4-vla/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Capstone: Autonomous Humanoid Integration",
+    "permalink": "/physical-ai-humanoid-course/docs/module-4-vla/capstone"
+  },
+  "next": {
+    "title": "LLM-Driven Cognitive Planning",
+    "permalink": "/physical-ai-humanoid-course/docs/module-4-vla/llm-planning"
+  }
+}

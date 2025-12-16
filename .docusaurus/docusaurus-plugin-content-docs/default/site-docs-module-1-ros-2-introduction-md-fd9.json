@@ -1,0 +1,27 @@
+{
+  "id": "module-1-ros2/introduction",
+  "title": "Introduction to ROS 2 Fundamentals",
+  "description": "This module introduces the core concepts of ROS 2 (Robot Operating System 2), which serves as the foundation for all robotics development in this course. ROS 2 provides the communication framework, tools, and conventions necessary for building complex robotic systems.",
+  "source": "@site/docs/module-1-ros2/introduction.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/introduction",
+  "permalink": "/physical-ai-humanoid-course/docs/module-1-ros2/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-organization/physical-ai-humanoid-course/tree/main/packages/create-docusaurus/templates/shared/docs/module-1-ros2/introduction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 1: ROS 2 Fundamentals",
+    "permalink": "/physical-ai-humanoid-course/docs/category/module-1-ros-2-fundamentals"
+  },
+  "next": {
+    "title": "Basic ROS 2 Nodes",
+    "permalink": "/physical-ai-humanoid-course/docs/module-1-ros2/basic-nodes"
+  }
+}

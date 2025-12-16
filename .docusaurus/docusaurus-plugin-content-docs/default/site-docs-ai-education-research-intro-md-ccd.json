@@ -1,0 +1,29 @@
+{
+  "id": "ai-education-research/intro",
+  "title": "AI's Impact on K-12 Classroom Efficiency",
+  "description": "Research Paper Overview",
+  "source": "@site/docs/ai-education-research/intro.md",
+  "sourceDirName": "ai-education-research",
+  "slug": "/ai-education-research/intro",
+  "permalink": "/physical-ai-humanoid-course/docs/ai-education-research/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-organization/physical-ai-humanoid-course/tree/main/packages/create-docusaurus/templates/shared/docs/ai-education-research/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "intro",
+    "title": "AI's Impact on K-12 Classroom Efficiency",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AI's Impact on K-12 Classroom Efficiency",
+    "permalink": "/physical-ai-humanoid-course/docs/category/ais-impact-on-k-12-classroom-efficiency"
+  },
+  "next": {
+    "title": "Literature Review",
+    "permalink": "/physical-ai-humanoid-course/docs/ai-education-research/literature-review"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ai-education-research/literature-review",
+  "title": "Literature Review",
+  "description": "Overview",
+  "source": "@site/docs/ai-education-research/literature-review.md",
+  "sourceDirName": "ai-education-research",
+  "slug": "/ai-education-research/literature-review",
+  "permalink": "/physical-ai-humanoid-course/docs/ai-education-research/literature-review",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-organization/physical-ai-humanoid-course/tree/main/packages/create-docusaurus/templates/shared/docs/ai-education-research/literature-review.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "literature-review",
+    "title": "Literature Review",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AI's Impact on K-12 Classroom Efficiency",
+    "permalink": "/physical-ai-humanoid-course/docs/ai-education-research/intro"
+  },
+  "next": {
+    "title": "AI Applications in K-12 Education",
+    "permalink": "/physical-ai-humanoid-course/docs/ai-education-research/ai-applications"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Module 3: Isaac Platform",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn to use NVIDIA Isaac for robotics perception and navigation."
+  }
+}

@@ -1,0 +1,116 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.pytest_cache/
+.hypothesis/
+.eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Build outputs
+dist/
+target/
+bin/
+obj/
+out/
+build/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+*.nfs
+*~
+.#*
+*#
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+*.tmp
+*.temp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.tmp
+*.temp
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Environment variables
+.env*
+!.env.example
+
+# Testing
+coverage/
+.coverage
+htmlcov/
+.pytest_cache/
+.hypothesis/
+
+# Documentation
+docs/_build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PlatformIO
+.platformio/
+pioenvs/
+piolib-deps/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.manifest
+install_manifest.txt
+compile_commands.json
+Makefile
+config.log
+config.status
+.deps/
+
+# NVIDIA/CUDA
+*.cu.o
+*.fatbin.c
+*.cub
+*.ptx

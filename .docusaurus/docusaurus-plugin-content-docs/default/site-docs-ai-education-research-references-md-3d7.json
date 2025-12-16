@@ -1,0 +1,29 @@
+{
+  "id": "ai-education-research/references",
+  "title": "References",
+  "description": "Academic Sources",
+  "source": "@site/docs/ai-education-research/references.md",
+  "sourceDirName": "ai-education-research",
+  "slug": "/ai-education-research/references",
+  "permalink": "/physical-ai-humanoid-course/docs/ai-education-research/references",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-organization/physical-ai-humanoid-course/tree/main/packages/create-docusaurus/templates/shared/docs/ai-education-research/references.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "id": "references",
+    "title": "References",
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Conclusion",
+    "permalink": "/physical-ai-humanoid-course/docs/ai-education-research/conclusion"
+  },
+  "next": {
+    "title": "Module 1: ROS 2 Fundamentals",
+    "permalink": "/physical-ai-humanoid-course/docs/category/module-1-ros-2-fundamentals"
+  }
+}
