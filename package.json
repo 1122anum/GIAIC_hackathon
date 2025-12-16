@@ -38,7 +38,8 @@
       "last 5 safari version"
     ]
   },
-  "engines": {
-    "node": ">=18.0"
+"engines": {
+    "node": "20.x"
+}
   }
 }
