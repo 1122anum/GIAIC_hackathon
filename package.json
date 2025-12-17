@@ -5,6 +5,8 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
+    "vercel-build": "npm ci && chmod +x node_modules/.bin/* && npm run build",
+    "prebuild": "chmod +x node_modules/.bin/docusaurus",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
