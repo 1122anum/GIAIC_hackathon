@@ -1,0 +1,173 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "ai-education-research/ai-applications",
+              "path": "/docs/ai-education-research/ai-applications",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ai-education-research/conclusion",
+              "path": "/docs/ai-education-research/conclusion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ai-education-research/implementation",
+              "path": "/docs/ai-education-research/implementation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ai-education-research/implementation-plan",
+              "path": "/docs/ai-education-research/implementation-plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ai-education-research/intro",
+              "path": "/docs/ai-education-research/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ai-education-research/literature-review",
+              "path": "/docs/ai-education-research/literature-review",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ai-education-research/references",
+              "path": "/docs/ai-education-research/references",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ai-education-research/roi-analysis",
+              "path": "/docs/ai-education-research/roi-analysis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ai-education-research/student-outcomes",
+              "path": "/docs/ai-education-research/student-outcomes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ai-education-research/teacher-workload",
+              "path": "/docs/ai-education-research/teacher-workload",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/basic-nodes",
+              "path": "/docs/module-1-ros2/basic-nodes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/introduction",
+              "path": "/docs/module-1-ros2/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-digital-twin/introduction",
+              "path": "/docs/module-2-digital-twin/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-isaac-platform/index",
+              "path": "/docs/module-3-isaac-platform/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-isaac-platform/integration",
+              "path": "/docs/module-3-isaac-platform/integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-isaac-platform/isaac-ros",
+              "path": "/docs/module-3-isaac-platform/isaac-ros",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-isaac-platform/isaac-sim",
+              "path": "/docs/module-3-isaac-platform/isaac-sim",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-isaac-platform/nav2-humanoid",
+              "path": "/docs/module-3-isaac-platform/nav2-humanoid",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vla/capstone",
+              "path": "/docs/module-4-vla/capstone",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vla/index",
+              "path": "/docs/module-4-vla/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vla/llm-planning",
+              "path": "/docs/module-4-vla/llm-planning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vla/nlp-ros",
+              "path": "/docs/module-4-vla/nlp-ros",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vla/whisper",
+              "path": "/docs/module-4-vla/whisper",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/ais-impact-on-k-12-classroom-efficiency",
+              "path": "/docs/category/ais-impact-on-k-12-classroom-efficiency",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/module-1-ros-2-fundamentals",
+              "path": "/docs/category/module-1-ros-2-fundamentals",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/module-2-digital-twin-simulation",
+              "path": "/docs/category/module-2-digital-twin-simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/module-3-isaac-platform",
+              "path": "/docs/category/module-3-isaac-platform",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/module-4-vision-language-action",
+              "path": "/docs/category/module-4-vision-language-action",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

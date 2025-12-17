@@ -1,0 +1,28 @@
+{
+  "id": "ai-education-research/ai-applications",
+  "title": "AI Applications in K-12 Education",
+  "description": "Overview",
+  "source": "@site/docs/ai-education-research/ai-applications.md",
+  "sourceDirName": "ai-education-research",
+  "slug": "/ai-education-research/ai-applications",
+  "permalink": "/docs/ai-education-research/ai-applications",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "ai-applications",
+    "title": "AI Applications in K-12 Education",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Literature Review",
+    "permalink": "/docs/ai-education-research/literature-review"
+  },
+  "next": {
+    "title": "Impact on Teacher Workload",
+    "permalink": "/docs/ai-education-research/teacher-workload"
+  }
+}

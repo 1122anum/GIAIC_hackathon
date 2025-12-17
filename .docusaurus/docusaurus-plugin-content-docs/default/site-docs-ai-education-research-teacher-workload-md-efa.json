@@ -1,0 +1,28 @@
+{
+  "id": "ai-education-research/teacher-workload",
+  "title": "Impact on Teacher Workload",
+  "description": "Overview",
+  "source": "@site/docs/ai-education-research/teacher-workload.md",
+  "sourceDirName": "ai-education-research",
+  "slug": "/ai-education-research/teacher-workload",
+  "permalink": "/docs/ai-education-research/teacher-workload",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "teacher-workload",
+    "title": "Impact on Teacher Workload",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AI Applications in K-12 Education",
+    "permalink": "/docs/ai-education-research/ai-applications"
+  },
+  "next": {
+    "title": "Impact on Student Outcomes",
+    "permalink": "/docs/ai-education-research/student-outcomes"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "ai-education-research/implementation",
+  "title": "Implementation Considerations",
+  "description": "Overview",
+  "source": "@site/docs/ai-education-research/implementation.md",
+  "sourceDirName": "ai-education-research",
+  "slug": "/ai-education-research/implementation",
+  "permalink": "/docs/ai-education-research/implementation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "implementation",
+    "title": "Implementation Considerations",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Python Implementation Plan",
+    "permalink": "/docs/ai-education-research/implementation-plan"
+  },
+  "next": {
+    "title": "Conclusion",
+    "permalink": "/docs/ai-education-research/conclusion"
+  }
+}

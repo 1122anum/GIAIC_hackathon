@@ -1,0 +1,23 @@
+{
+  "id": "module-3-isaac-platform/integration",
+  "title": "Integration: Isaac Platform with ROS 2",
+  "description": "This section covers how to integrate the NVIDIA Isaac platform components with ROS 2 for a complete robotics solution.",
+  "source": "@site/docs/module-3-isaac-platform/integration.md",
+  "sourceDirName": "module-3-isaac-platform",
+  "slug": "/module-3-isaac-platform/integration",
+  "permalink": "/docs/module-3-isaac-platform/integration",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 3: AI-Robot Brain (NVIDIA Isaac™)",
+    "permalink": "/docs/module-3-isaac-platform/"
+  },
+  "next": {
+    "title": "Isaac ROS: Hardware-Accelerated VSLAM + Navigation",
+    "permalink": "/docs/module-3-isaac-platform/isaac-ros"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/docs-829": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-4b6": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs-e86": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/ai-education-research/ai-applications-7f0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ai-education-research-ai-applicationsef-6-dd1"
+  },
+  "/docs/ai-education-research/conclusion-963": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ai-education-research-conclusionc-92-9ad"
+  },
+  "/docs/ai-education-research/implementation-e90": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ai-education-research-implementationf-30-5be"
+  },
+  "/docs/ai-education-research/implementation-plan-9bd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ai-education-research-implementation-pland-87-c42"
+  },
+  "/docs/ai-education-research/intro-6e7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ai-education-research-introccd-06e"
+  },
+  "/docs/ai-education-research/literature-review-26c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ai-education-research-literature-review-02-d-4e2"
+  },
+  "/docs/ai-education-research/references-77b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ai-education-research-references-3-d-7-4ef"
+  },
+  "/docs/ai-education-research/roi-analysis-966": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ai-education-research-roi-analysisa-5-c-889"
+  },
+  "/docs/ai-education-research/student-outcomes-d3c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ai-education-research-student-outcomes-799-c46"
+  },
+  "/docs/ai-education-research/teacher-workload-9de": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ai-education-research-teacher-workloadefa-5b2"
+  },
+  "/docs/category/ais-impact-on-k-12-classroom-efficiency-02e": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-ais-impact-on-k-12-classroom-efficiencyb-20-ca6"
+  },
+  "/docs/category/module-1-ros-2-fundamentals-91b": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-module-1-ros-2-fundamentals-37-c-8ef"
+  },
+  "/docs/category/module-2-digital-twin-simulation-856": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-module-2-digital-twin-simulation-165-e0b"
+  },
+  "/docs/category/module-3-isaac-platform-7d6": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-module-3-isaac-platform-184-bab"
+  },
+  "/docs/category/module-4-vision-language-action-a2d": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-module-4-vision-language-actionff-3-e1c"
+  },
+  "/docs/intro-61d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/module-1-ros2/basic-nodes-08b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ros-2-basic-nodes-74-b-e4f"
+  },
+  "/docs/module-1-ros2/introduction-fbe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ros-2-introductionfd-9-25a"
+  },
+  "/docs/module-2-digital-twin/introduction-eaa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-2-digital-twin-introduction-412-5f3"
+  },
+  "/docs/module-3-isaac-platform/-898": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-3-isaac-platform-99-d-79b"
+  },
+  "/docs/module-3-isaac-platform/integration-f83": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-3-isaac-platform-integration-037-f08"
+  },
+  "/docs/module-3-isaac-platform/isaac-ros-238": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-3-isaac-platform-isaac-ros-748-a9d"
+  },
+  "/docs/module-3-isaac-platform/isaac-sim-07b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-3-isaac-platform-isaac-sima-31-9e9"
+  },
+  "/docs/module-3-isaac-platform/nav2-humanoid-33b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-3-isaac-platform-nav-2-humanoid-444-b2f"
+  },
+  "/docs/module-4-vla/-c89": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-vla-4-a-9-925"
+  },
+  "/docs/module-4-vla/capstone-b20": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-vla-capstonefc-8-cc5"
+  },
+  "/docs/module-4-vla/llm-planning-764": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-vla-llm-planningce-5-582"
+  },
+  "/docs/module-4-vla/nlp-ros-5db": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-vla-nlp-roscd-5-0d0"
+  },
+  "/docs/module-4-vla/whisper-50c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-vla-whisper-0-dd-08f"
+  },
+  "/-e5f": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__context": {
+      "plugin": "plugin---a-74-9d6"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

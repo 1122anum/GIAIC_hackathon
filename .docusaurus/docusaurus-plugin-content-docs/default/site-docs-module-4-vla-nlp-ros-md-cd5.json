@@ -1,0 +1,23 @@
+{
+  "id": "module-4-vla/nlp-ros",
+  "title": "Natural Language to ROS 2 Actions",
+  "description": "This section covers the mapping of natural language commands to ROS 2 services, actions, and topics for robot execution.",
+  "source": "@site/docs/module-4-vla/nlp-ros.md",
+  "sourceDirName": "module-4-vla",
+  "slug": "/module-4-vla/nlp-ros",
+  "permalink": "/docs/module-4-vla/nlp-ros",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LLM-Driven Cognitive Planning",
+    "permalink": "/docs/module-4-vla/llm-planning"
+  },
+  "next": {
+    "title": "OpenAI Whisper: Voice Command Processing",
+    "permalink": "/docs/module-4-vla/whisper"
+  }
+}

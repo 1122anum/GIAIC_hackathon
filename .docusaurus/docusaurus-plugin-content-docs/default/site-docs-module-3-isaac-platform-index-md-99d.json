@@ -1,0 +1,23 @@
+{
+  "id": "module-3-isaac-platform/index",
+  "title": "Module 3: AI-Robot Brain (NVIDIA Isaac™)",
+  "description": "This module covers the NVIDIA Isaac platform for robotics perception and navigation, including Isaac Sim for simulation and synthetic data generation, Isaac ROS for hardware-accelerated perception, and Nav2 for bipedal humanoid path planning.",
+  "source": "@site/docs/module-3-isaac-platform/index.md",
+  "sourceDirName": "module-3-isaac-platform",
+  "slug": "/module-3-isaac-platform/",
+  "permalink": "/docs/module-3-isaac-platform/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 3: Isaac Platform",
+    "permalink": "/docs/category/module-3-isaac-platform"
+  },
+  "next": {
+    "title": "Integration: Isaac Platform with ROS 2",
+    "permalink": "/docs/module-3-isaac-platform/integration"
+  }
+}

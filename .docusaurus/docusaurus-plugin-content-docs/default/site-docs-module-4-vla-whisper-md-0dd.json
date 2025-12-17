@@ -1,0 +1,19 @@
+{
+  "id": "module-4-vla/whisper",
+  "title": "OpenAI Whisper: Voice Command Processing",
+  "description": "OpenAI Whisper is a state-of-the-art speech recognition system that transcribes human voice commands to text with high accuracy. This section covers its integration for robotics applications.",
+  "source": "@site/docs/module-4-vla/whisper.md",
+  "sourceDirName": "module-4-vla",
+  "slug": "/module-4-vla/whisper",
+  "permalink": "/docs/module-4-vla/whisper",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Natural Language to ROS 2 Actions",
+    "permalink": "/docs/module-4-vla/nlp-ros"
+  }
+}

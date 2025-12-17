@@ -1,0 +1,28 @@
+{
+  "id": "ai-education-research/references",
+  "title": "References",
+  "description": "Academic Sources",
+  "source": "@site/docs/ai-education-research/references.md",
+  "sourceDirName": "ai-education-research",
+  "slug": "/ai-education-research/references",
+  "permalink": "/docs/ai-education-research/references",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "id": "references",
+    "title": "References",
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Conclusion",
+    "permalink": "/docs/ai-education-research/conclusion"
+  },
+  "next": {
+    "title": "Module 1: ROS 2 Fundamentals",
+    "permalink": "/docs/category/module-1-ros-2-fundamentals"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "module-4-vla/capstone",
+  "title": "Capstone: Autonomous Humanoid Integration",
+  "description": "The capstone project integrates all modules into a complete autonomous humanoid robot system capable of voice interaction, navigation, object detection, and manipulation.",
+  "source": "@site/docs/module-4-vla/capstone.md",
+  "sourceDirName": "module-4-vla",
+  "slug": "/module-4-vla/capstone",
+  "permalink": "/docs/module-4-vla/capstone",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 4: Vision-Language-Action",
+    "permalink": "/docs/category/module-4-vision-language-action"
+  },
+  "next": {
+    "title": "Module 4: Vision-Language-Action (VLA)",
+    "permalink": "/docs/module-4-vla/"
+  }
+}

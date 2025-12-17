@@ -1,0 +1,22 @@
+{
+  "id": "intro",
+  "title": "Introduction to Physical AI & Humanoid Robotics",
+  "description": "Welcome to the comprehensive course on Physical AI & Humanoid Robotics! This course provides hands-on experience with humanoid robots (Unitree Go2/G1), sensor systems (RealSense, IMU), and AI platforms (Jetson Orin) through a structured curriculum with 5 modules and a capstone project.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "AI's Impact on K-12 Classroom Efficiency",
+    "permalink": "/docs/category/ais-impact-on-k-12-classroom-efficiency"
+  }
+}

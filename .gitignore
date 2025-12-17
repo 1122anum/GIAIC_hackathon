@@ -39,6 +39,9 @@ obj/
 out/
 build/
 
+# Docusaurus specific
+.docusaurus/          # ← ADD THIS LINE
+
 # OS generated files
 .DS_Store
 .DS_Store?
@@ -68,6 +71,14 @@ desktop.ini
 *~
 *.tmp
 *.temp
+
+# Node.js / npm
+node_modules/         # ← ADD THIS LINE
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+yarn.lock
+package-lock.json    # ← ADD THIS LINE (optional - some prefer to commit it)
 
 # Logs
 *.log

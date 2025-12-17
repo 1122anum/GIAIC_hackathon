@@ -1,0 +1,28 @@
+{
+  "id": "ai-education-research/conclusion",
+  "title": "Conclusion",
+  "description": "Summary of Findings",
+  "source": "@site/docs/ai-education-research/conclusion.md",
+  "sourceDirName": "ai-education-research",
+  "slug": "/ai-education-research/conclusion",
+  "permalink": "/docs/ai-education-research/conclusion",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "conclusion",
+    "title": "Conclusion",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Implementation Considerations",
+    "permalink": "/docs/ai-education-research/implementation"
+  },
+  "next": {
+    "title": "References",
+    "permalink": "/docs/ai-education-research/references"
+  }
+}
